@@ -6,7 +6,9 @@
 
 This is a Rails-React setup project built for learning purposes.
 
-This project uses Rails app as a Provider API for my React frontend project.
+This project uses Rails app as a Provider API for my [React frontend project](https://github.com/jonathastavares/hello-react-front-end).
+
+You can still run the backend part alone, but it is much more interesting if you use the Frontend to check full features.
 
 My development flow included: performing git flow practices, also configuring rails routes and controllers to provide correct info.
 
